@@ -6,3 +6,4 @@ shiny==1.4.0
 dashscope==1.23.3
 htmltools==0.6.0
 openpyxl==3.1.5
+markdown==3.4.1
