@@ -1,7 +1,0 @@
-pandas>=2.2.2
-matplotlib>= 3.9.2
-seaborn>=0.13.2
-plotly>=5.24.1
-shiny>=1.4.0
-dashscope>=1.23.3
-htmltools>=0.6.0
